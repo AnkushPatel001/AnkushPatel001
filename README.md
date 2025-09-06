@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankush Patel</h1>
-<h3 align="center">🚀 Android Developer | Kotlin • Jetpack Compose • Firebase</h3>
+<h3 align="center">🎓 I’m pursuing my <b>B.Tech in Computer Engineering from YMCA University</b>  
+  💡 Passionate about <b>Android Development</b> and exploring modern tech  
+  📱 I love building <b>user-friendly apps</b> that solve real-world problems  
+  🚀 Currently working on <b>Brokebro App</b>  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankushpatel001&label=Profile%20views&color=0e75b6&style=flat" alt="ankushpatel001" />
@@ -26,7 +29,7 @@
 
 ### 🛠️ Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,compose,firebase,figma,git,mysql,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase,figma,git,mysql,html,css" height="45" />
 </p>
 
 ---
