@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankush Patel</h1>
 <h3 align="center">🎓 I’m pursuing my <b>B.Tech in Computer Engineering from YMCA University</b>  
   💡 Passionate about <b>Android Development</b> and exploring modern tech  
-  📱 I love building <b>user-friendly apps</b> that solve real-world problems  
-  🚀 Currently working on <b>Brokebro App</b>  </h3>
+  📱 I love building <b>user-friendly apps</b> that solve real-world problems </b>  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankushpatel001&label=Profile%20views&color=0e75b6&style=flat" alt="ankushpatel001" />
@@ -18,12 +17,13 @@
 
 ---
 
-### 🌐 Connect With Me  
+<h3 align="left">### 🌐Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ankushpatel" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
-  <a href="https://fb.com/ankush patel" target="blank"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40"/></a>
-  <a href="https://instagram.com/the_ankush_01" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
+<a href="https://linkedin.com/in/ankush patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush patel" height="30" width="40" /></a>
+<a href="https://fb.com/ankush patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankush patel" height="30" width="40" /></a>
+<a href="https://instagram.com/the_ankush_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ankush_01" height="30" width="40" /></a>
 </p>
+
 
 ---
 
