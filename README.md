@@ -90,18 +90,6 @@ flowchart TD
 
 ---
 
-## GitHub Activity
-
-My GitHub profile automatically displays my contribution calendar and activity graph.
-
-You can explore my repositories and development work here:
-
-**[Explore My GitHub Repositories](https://github.com/AnkushPatel001?tab=repositories)**
-
-**[View My Contributions](https://github.com/AnkushPatel001)**
-
----
-
 ## Currently Exploring
 
 - Advanced Flutter development
@@ -129,3 +117,4 @@ You can explore my repositories and development work here:
 *Thanks for visiting my profile!*
 
 </div>
+
