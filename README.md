@@ -87,17 +87,7 @@ motto: "Build. Learn. Improve. Repeat."
 
 <div align="center">
 
-<a href="https://github.com/AnkushPatel001">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnkushPatel001&show_icons=true&hide_border=true&bg_color=09090F&title_color=9B7BFF&icon_color=00D4FF&text_color=FFFFFF&rank_icon=github"/>
-</a>
-
-<a href="https://github.com/AnkushPatel001">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushPatel001&layout=compact&langs_count=8&hide_border=true&bg_color=09090F&title_color=9B7BFF&text_color=FFFFFF"/>
-</a>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=AnkushPatel001&theme=transparent&hide_border=true&background=09090F&stroke=6C3BFF&ring=9B7BFF&fire=00D4FF&currStreakLabel=FFFFFF&sideLabels=9B7BFF&dates=AAAAAA"/>
+<img src="./metrics.svg" width="100%" alt="Ankush Patel GitHub Metrics"/>
 
 </div>
 
@@ -146,3 +136,4 @@ motto: "Build. Learn. Improve. Repeat."
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:5227CC,100:09090F&height=130&section=footer"/>
 
 </div>
+
