@@ -1,120 +1,119 @@
-﻿# Ankush Patel
+﻿<div align="center">
 
-### Software Developer | Flutter & Android Engineer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,45:5227CC,100:00D4FF&height=230&section=header&text=ANKUSH%20PATEL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FLUTTER%20%26%20ANDROID&descSize=16&descAlignY=60&animation=fadeIn"/>
 
-> Building scalable mobile applications with clean architecture, thoughtful UI and reliable engineering.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ankush+Patel+%F0%9F%91%8B;Flutter+%26+Android+Developer+%F0%9F%93%B1;Building+Scalable+Mobile+Applications;Crafting+Beautiful+User+Experiences;Always+Learning.+Always+Building." />
 
-[![GitHub](https://img.shields.io/badge/GitHub-AnkushPatel001-181717?style=flat-square&logo=github)](https://github.com/AnkushPatel001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ankush-patel-4305182b2/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:patelankush306@gmail.com)
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=AnkushPatel001&style=for-the-badge&color=6C3BFF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/AnkushPatel001?style=for-the-badge&color=00D4FF&label=FOLLOWERS"/>
 
-## About Me
+<br/><br/>
 
-I'm **Ankush Patel**, a Software Developer focused on mobile application development.
+<a href="https://www.linkedin.com/in/ankush-patel-4305182b2/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:patelankush306@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-- Flutter and native Android development.
-- Building scalable and maintainable applications.
-- Firebase and REST API integration.
-- State management and application architecture.
-- Exploring backend development and modern technologies.
-
-**Philosophy:** Build. Learn. Improve. Repeat.
+</div>
 
 ---
 
-## Technology Stack
+## 👨‍💻 About Me
 
-| Category | Technologies |
-|---|---|
-| Mobile | Flutter, Dart, Kotlin, Java |
-| Android | Jetpack Compose, XML, Android SDK |
-| State Management | BLoC, Provider, GetX |
-| Architecture | MVVM, Clean Architecture, SOLID |
-| Backend | Node.js, Express.js, REST APIs |
-| Database | Firebase, Firestore, MongoDB, PostgreSQL, Redis |
-| API Integration | Dio, Retrofit, Gson |
-| Tools | Android Studio, VS Code, Git, GitHub, Postman, Docker |
-| Design | Figma, Material Design |
+Hey! I'm **Ankush Patel**, a Software Developer passionate about building modern, scalable and user-friendly mobile applications.
 
----
+- 📱 Flutter & Android Developer
+- 💙 Dart, Kotlin and Java
+- 🔥 Firebase and REST API Integration
+- ⚡ BLoC, Provider and GetX
+- 🏗️ MVVM and Clean Architecture
+- 🎨 UI/UX and Performance Optimization
+- 🌱 Always learning and building new things.
 
-## Development Ecosystem
+```yaml
+name: Ankush Patel
+username: AnkushPatel001
+location: India
+role: Software Developer
 
-```mermaid
-flowchart TD
-    A["ANKUSH PATEL"] --> B["Mobile Development"]
-    A --> C["Backend & Database"]
-    A --> D["Engineering"]
+focus:
+  - Flutter Development
+  - Native Android Development
+  - Scalable Mobile Applications
 
-    B --> E["Flutter & Dart"]
-    B --> F["Android & Kotlin"]
-    B --> G["Jetpack Compose"]
+currently_exploring:
+  - Advanced Flutter
+  - Kotlin & Jetpack Compose
+  - Backend Development
 
-    C --> H["Firebase"]
-    C --> I["Node.js & Express"]
-    C --> J["MongoDB & PostgreSQL"]
-
-    D --> K["Clean Architecture"]
-    D --> L["BLoC / Provider / GetX"]
-    D --> M["Git & Docker"]
-
-    classDef main fill:#5227CC,color:#fff,stroke:#00D4FF
-    classDef item fill:#171326,color:#fff,stroke:#9B7BFF
-    class A main
-    class B,C,D,E,F,G,H,I,J,K,L,M item
+motto: "Build. Learn. Improve. Repeat."
 ```
 
 ---
 
-## Application Architecture
+## ⚡ Tech Stack
 
-```mermaid
-flowchart TD
-    A["Presentation Layer"] --> B["State Management"]
-    B --> C["Domain Layer"]
-    C --> D["Data Layer"]
-    D --> E["REST APIs"]
-    D --> F["Firebase"]
-    D --> G["Local Database"]
+### 📱 Mobile Development
 
-    style A fill:#5227CC,color:#fff
-    style B fill:#34205C,color:#fff
-    style C fill:#34205C,color:#fff
-    style D fill:#34205C,color:#fff
-    style E fill:#075985,color:#fff
-    style F fill:#075985,color:#fff
-    style G fill:#075985,color:#fff
-```
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio"/>
+</p>
 
----
+### 🧠 State Management & Architecture
 
-## Currently Exploring
+`BLoC` • `Provider` • `GetX` • `MVVM` • `Clean Architecture` • `SOLID` • `Jetpack Compose` • `XML`
 
-- Advanced Flutter development
-- Kotlin and Jetpack Compose
-- Scalable backend architecture
-- Application performance optimization
-- System design and clean code
+### ☁️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb,postgres,redis"/>
+</p>
+
+`REST APIs` • `Firestore` • `Realtime Database` • `FCM` • `Retrofit` • `Dio`
+
+### 🎨 Design & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,docker,idea,linux"/>
+</p>
 
 ---
 
-## Let's Connect
-
-| Platform | Link |
-|---|---|
-| GitHub | [AnkushPatel001](https://github.com/AnkushPatel001) |
-| LinkedIn | [Connect with me](https://www.linkedin.com/in/ankush-patel-4305182b2/) |
-| Email | [patelankush306@gmail.com](mailto:patelankush306@gmail.com) |
-
----
+## 🐍 Contribution Snake
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/AnkushPatel001/AnkushPatel001/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/AnkushPatel001">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ankush-patel-4305182b2/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:patelankush306@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br/><br/>
+
 **"Great software is built with curiosity, consistency and creativity."**
 
-*Thanks for visiting my profile!*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:5227CC,100:09090F&height=130&section=footer"/>
 
 </div>
 
