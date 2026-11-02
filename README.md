@@ -1,29 +1,10 @@
 ﻿<div align="center">
 
-<div align="center">
 <img src="./assets/developer-banner.png" width="100%" alt="Ankush Patel Developer Banner"/>
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ankush+Patel+%F0%9F%91%8B;Flutter+%26+Android+Developer+%F0%9F%93%B1;Building+Scalable+Mobile+Applications;Crafting+Beautiful+User+Experiences;Always+Learning.+Always+Building." />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AnkushPatel001&style=for-the-badge&color=6C3BFF&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/AnkushPatel001?style=for-the-badge&color=00D4FF&label=FOLLOWERS"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ankush-patel-4305182b2/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:patelankush306@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
 
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
 Hey! I'm **Ankush Patel**, a Software Developer passionate about building modern, scalable and user-friendly mobile applications.
@@ -120,5 +101,6 @@ motto: "Build. Learn. Improve. Repeat."
 </div>
 
 </div>
+
 
 
