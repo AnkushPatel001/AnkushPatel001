@@ -1,6 +1,8 @@
 ﻿<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,45:5227CC,100:00D4FF&height=230&section=header&text=ANKUSH%20PATEL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FLUTTER%20%26%20ANDROID&descSize=16&descAlignY=60&animation=fadeIn"/>
+<div align="center">
+<img src="./assets/developer-banner.png" width="100%" alt="Ankush Patel Developer Banner"/>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ankush+Patel+%F0%9F%91%8B;Flutter+%26+Android+Developer+%F0%9F%93%B1;Building+Scalable+Mobile+Applications;Crafting+Beautiful+User+Experiences;Always+Learning.+Always+Building." />
 
@@ -113,7 +115,10 @@ motto: "Build. Learn. Improve. Repeat."
 
 **"Great software is built with curiosity, consistency and creativity."**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:5227CC,100:09090F&height=130&section=footer"/>
+<div align="center">
+<img src="./assets/developer-banner.png" width="100%" alt="Ankush Patel Developer Banner"/>
+</div>
 
 </div>
+
 
