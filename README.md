@@ -87,7 +87,7 @@ motto: "Build. Learn. Improve. Repeat."
 
 <div align="center">
 
-<img src="./metrics.svg" width="100%" alt="Ankush Patel GitHub Metrics"/>
+<img src="./github-metrics.svg" width="100%" alt="Ankush Patel GitHub Metrics"/>
 
 </div>
 
@@ -136,4 +136,5 @@ motto: "Build. Learn. Improve. Repeat."
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:5227CC,100:09090F&height=130&section=footer"/>
 
 </div>
+
 
